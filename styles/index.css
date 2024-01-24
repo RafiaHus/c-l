@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+h2 {
+    color: brown;
+    font-size: 50px; 
+    font-weight: 300;
+    text-align: center;
+}
+
+h4 {
+    color: red;
+}
+
+#hi-hi {
+    color: red;
+}
+
+#first-paragraph {
+    color: red;
+}
+
+#outro-bye {
+    color: red;
+}
+
+p {
+  background-color: black;
+}
+
+
+body {
+    background-image: url(../images/Flower.jpg);
+    background-repeat: no image;
+    background-size: center;
+    background-position: center;
+    background-attachment: fixed;
+    }
