@@ -1,5 +1,5 @@
 h1 {
-    color: red;
+    color: blue;
     font-size: 40px;
     font-weight: 300;
 }
@@ -34,7 +34,7 @@ p {
 
 body {
     background-image: url(../images/Flower.jpg);
-    background-repeat: no image;
+    background-repeat: no repeat;
     background-size: center;
     background-position: center;
     background-attachment: fixed;
